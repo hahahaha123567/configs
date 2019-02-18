@@ -26,7 +26,6 @@ var rules = [
 	"||google.com",
 	"||affluences.com",
 	"||gitbooks.io",
-	"||steamcommunity.com",
 	"||reddit.com",
 	"||midphoto.com",
 	"||bbc.com",
@@ -4697,10 +4696,7 @@ var rules = [
 	"||startpage.com",
 	"||static-economist.com",
 	"||stc.com.sa",
-<<<<<<< HEAD
-=======
 	"||steamcommunity.com",
->>>>>>> 89f611290a639ce9c01c0642d34c77cf938e223c
 	"||steel-storm.com",
 	".steganos.com",
 	"||steganos.com",
