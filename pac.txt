@@ -4697,6 +4697,7 @@ var rules = [
 	"||static-economist.com",
 	"||stc.com.sa",
 	"||steamcommunity.com",
+	//"||store.steampowered.com",
 	"||steel-storm.com",
 	".steganos.com",
 	"||steganos.com",
